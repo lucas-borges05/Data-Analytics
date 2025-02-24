@@ -1,4 +1,4 @@
-Análise de Dados de Criptomoedas
+#Análise de Dados de Criptomoedas
 Este projeto de análise de dados utiliza um dataset de criptomoedas disponível no Kaggle e foi desenvolvido utilizando Python. O objetivo foi explorar o crescimento e o comportamento de algumas criptomoedas populares ao longo do tempo, focando nas variáveis como volume de transações e comparações entre elas.
 
 Tecnologias Utilizadas
