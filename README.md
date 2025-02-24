@@ -27,5 +27,8 @@ Este projeto de análise de dados utiliza um dataset de criptomoedas disponível
 ## Conclusão
 Este projeto proporciona uma visão detalhada do comportamento das principais criptomoedas em termos de volume de transações. A análise de correlação e o acompanhamento do crescimento ao longo do tempo podem fornecer insights valiosos para investidores ou entusiastas do mercado de criptomoedas
 
+##Kaggle
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
+
 
  
