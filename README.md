@@ -24,10 +24,8 @@ Este projeto de análise de dados utiliza um dataset de criptomoedas disponível
    Calculamos a correlação de Pearson entre o volume de transações das criptomoedas: **Bitcoin**, **Ethereum**, **XRP**, e **Cardano**.
    - **Matriz de Correlação**: Mede a relação entre os volumes, com valores variando de -1 (correlação negativa) a 1 (correlação positiva).
 
-## Como Rodar o Projeto
+## Conclusão
+Este projeto proporciona uma visão detalhada do comportamento das principais criptomoedas em termos de volume de transações. A análise de correlação e o acompanhamento do crescimento ao longo do tempo podem fornecer insights valiosos para investidores ou entusiastas do mercado de criptomoedas
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/analise-criptomoedas.git
 
  
