@@ -8,7 +8,7 @@ Este projeto de análise de dados utiliza um dataset de criptomoedas disponível
 - **Pandas**: Para manipulação de dados.
 - **Matplotlib / Seaborn**: Para criação de gráficos e visualizações.
 - **NumPy**: Para cálculos numéricos.
-- **Scikit-learn** (se aplicável): Para cálculos estatísticos e análise de correlação.
+- **Scikit-learn** : Para cálculos estatísticos e análise de correlação.
 
 ## Análises Realizadas
 
